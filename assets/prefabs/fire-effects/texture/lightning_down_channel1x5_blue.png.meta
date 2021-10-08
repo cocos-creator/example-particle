@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "95ca0ea1-f7b9-4abb-9dee-293c8bc700c2",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "95ca0ea1-f7b9-4abb-9dee-293c8bc700c2@6c48a",
+      "displayName": "lightning_down_channel1x5_blue",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "95ca0ea1-f7b9-4abb-9dee-293c8bc700c2"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "95ca0ea1-f7b9-4abb-9dee-293c8bc700c2@6c48a",
+    "hasAlpha": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "127b3b17-b37a-4be5-92e2-8347c1de66c8",
+  "files": [],
+  "subMetas": {
+    "83687": {
+      "importer": "gltf-scene",
+      "uuid": "127b3b17-b37a-4be5-92e2-8347c1de66c8@83687",
+      "displayName": "",
+      "id": "83687",
+      "name": "SM_gun02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de577": {
+      "importer": "gltf-mesh",
+      "uuid": "127b3b17-b37a-4be5-92e2-8347c1de66c8@de577",
+      "displayName": "",
+      "id": "de577",
+      "name": "SM_gun02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5989d": {
+      "importer": "gltf-mesh",
+      "uuid": "127b3b17-b37a-4be5-92e2-8347c1de66c8@5989d",
+      "displayName": "",
+      "id": "5989d",
+      "name": "UCX_SM_gun02.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "127b3b17-b37a-4be5-92e2-8347c1de66c8@83687",
+    "assetFinder": {
+      "meshes": [
+        "127b3b17-b37a-4be5-92e2-8347c1de66c8@de577",
+        "127b3b17-b37a-4be5-92e2-8347c1de66c8@5989d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "127b3b17-b37a-4be5-92e2-8347c1de66c8@83687"
+      ]
+    }
+  }
+}
